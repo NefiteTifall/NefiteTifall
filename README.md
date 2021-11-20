@@ -1,20 +1,20 @@
 ## 👋 Hi, let me introduce myself
 
-` 🔎 ` **I'm Nicolas, I'm currently working at [SENZU SAS](https://welcome.senzu.app/).**
+`🔎` » **I'm Nicolas, I'm currently working at [SENZU SAS](https://welcome.senzu.app/).**
 
-` 🤗 ` **I'm a young "coding enthusiast".**
+`🤗` » **I'm a young "coding enthusiast".**
 
-` 🎓 ` **I graduated from [EDEN School](https://www.edenschool.fr).**
+`🎓` » **I graduated from [EDEN School](https://www.edenschool.fr).**
 
 ## 📊 My Stats
 
 <div align="center">
   <tr style="display:flex; justify-content: space-around">
     <td align="center" width="50%" style="margin: auto 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=NefiteTifall&count_private=true&show_icons=true&theme=aura_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NefiteTifall&count_private=true&show_icons=true&theme=aura_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
     </td>
       <td align="center" width="50%" style="margin-right: 40px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefiteTifall&theme=aura_dark&langs_count=8&layout=compact&enable_animations=true&border_color=30363D"/>
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefiteTifall&theme=aura_dark&langs_count=8&layout=compact&enable_animations=true&border_color=30363D"/>
     </td>
   </tr>
 </div>
@@ -23,8 +23,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NefiteTifall&layout=compact&theme=aura_dark&enable_animations=true&border_color=30363D&custom_title=WakaTime+Last+7+Days"
          alt="Wakatime Stats"/>
 </div>
-
-<details>
 
 ## 🌍 Programming languages:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -65,4 +63,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-</details>
