@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NefiteTifall&layout=compact&theme=aura_dark&enable_animations=true&border_color=30363D&custom_title=WakaTime+Last+7+Days"
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NefiteTifall&layout=compact&theme=aura_dark&enable_animations=true&border_color=30363D&custom_title=WakaTime+Last+7+Days?"
          alt="Wakatime Stats"/>
 </div>
 
