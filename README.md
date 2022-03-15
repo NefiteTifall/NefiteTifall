@@ -1,7 +1,5 @@
 ## 👋 Hi, let me introduce myself
 
-`🔎` » **I'm Nicolas, I'm currently working at [SENZU SAS](https://welcome.senzu.app/).**
-
 `🤗` » **I'm a young "coding enthusiast".**
 
 `🎓` » **I graduated from [EDEN School](https://www.edenschool.fr).**
@@ -17,11 +15,6 @@
       <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefiteTifall&theme=aura_dark&langs_count=8&layout=compact&enable_animations=true&border_color=30363D"/>
     </td>
   </tr>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NefiteTifall&layout=compact&theme=aura_dark&enable_animations=true&border_color=30363D&custom_title=WakaTime+Last+7+Days"
-         alt="Wakatime Stats"/>
 </div>
 
 ## 🌍 Programming languages:
