@@ -10,8 +10,8 @@
 ## 📊 My stats
 
 <div>
-    <img src="https://stats.nguillaume.fr/api?username=nefitetifall&count_private=true&show_icons=true&hide_title=true&count_private=true&enable_animations=true&border_color=00DC82&hide=stars&rank_icon=percentile&icon_color=00DC82&text_color=FFFFFF&bg_color=020420&ring_color=00DC82&show=prs_merged_percentage,reviews,prs_merged,reviews" height=250 align="center"/>
-    <img src="https://stats.nguillaume.fr/api/wakatime?username=nefitetifall&layout=compact&langs_count=16&bg_color=020420&text_color=FFFFFF&custom_title=Time%20per%20Language%20(non%20exhaustive)&border_color=00DC82&title_color=00DC82" height=250 align="center"/>
+    <img src="https://stats.nguillaume.fr/api?username=nefitetifall&count_private=true&show_icons=true&hide_title=true&count_private=true&enable_animations=true&border_color=00DC82&hide=stars&rank_icon=percentile&icon_color=00DC82&text_color=FFFFFF&bg_color=020420&ring_color=00DC82&show=prs_merged_percentage,reviews,prs_merged,reviews&line_height=24" width=45% align="top"/>
+    <img src="https://stats.nguillaume.fr/api/wakatime?username=nefitetifall&layout=compact&langs_count=12&bg_color=020420&text_color=FFFFFF&custom_title=Time%20per%20Language%20(non%20exhaustive)&border_color=00DC82&title_color=00DC82" width=45% align="top"/>
 </tr>
 
 ## 🌍 Programming languages:
